@@ -5,10 +5,6 @@ pid
 angular-turbo
 angular-turbo.zip
 chat
-bin/main
-bin/main.exe
-bin/mac
-templates
 *.zip
 turbo.log
 downloader.py
